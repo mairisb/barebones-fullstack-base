@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@tspark/common": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
   }
 }
