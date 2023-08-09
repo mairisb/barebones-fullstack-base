@@ -1,0 +1,9 @@
+{
+  "name": "tspark",
+  "private": true,
+  "workspaces": [
+    "packages/client",
+    "packages/api",
+    "packages/common"
+  ]
+}
