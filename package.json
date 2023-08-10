@@ -1,5 +1,5 @@
 {
-  "name": "tspark",
+  "name": "barebones-fullstack-base",
   "private": true,
   "workspaces": [
     "packages/client",

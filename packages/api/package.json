@@ -1,5 +1,5 @@
 {
-  "name": "@tspark/api",
+  "name": "@barebones-fullstack-base/api",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tspark/common": "^1.0.0",
+    "@barebones-fullstack-base/common": "^1.0.0",
     "express": "^4.18.2"
   },
   "devDependencies": {

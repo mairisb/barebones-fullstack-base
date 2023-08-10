@@ -1,5 +1,5 @@
 {
-  "name": "@tspark/client",
+  "name": "@barebones-fullstack-base/client",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tspark/common": "^1.0.0",
+    "@barebones-fullstack-base/common": "^1.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

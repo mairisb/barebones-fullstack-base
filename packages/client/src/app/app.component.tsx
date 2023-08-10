@@ -1,4 +1,4 @@
-import { helloFromCommon } from "@tspark/common";
+import { helloFromCommon } from "@barebones-fullstack-base/common";
 import { useEffect } from "react";
 
 export const App: React.FC = () => {

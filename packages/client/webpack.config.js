@@ -27,5 +27,5 @@ module.exports = {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist'),
   },
-  devtool: "sourcemap",
+  devtool: "inline-source-map",
 };
